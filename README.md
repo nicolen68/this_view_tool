@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install this_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+``` ruby
+ ThisViewTool::Renderer.copyright 'A person', 'All rights reserved'
+ ```
 
 ## Development
 
