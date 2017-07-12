@@ -1,6 +1,6 @@
 # ThisViewTool
 
-> Various view specific methods for applications I use
+> Various view specific methods for applications that I use
 
 ## Installation
 
